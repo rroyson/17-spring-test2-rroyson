@@ -1,0 +1,23 @@
+{
+  "name": "17-spring-test2-rroyson",
+  "version": "1.0.0",
+  "description": "17-spring-test2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rroyson/17-spring-test2-rroyson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rroyson/17-spring-test2-rroyson/issues"
+  },
+  "homepage": "https://github.com/rroyson/17-spring-test2-rroyson#readme",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  }
+}
