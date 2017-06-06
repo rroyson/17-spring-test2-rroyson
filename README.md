@@ -1,18 +1,34 @@
 # 17-spring-test2-rroyson
 17-spring-test2
 
+## Getting Started
+
+```
+git clone https://github.com/rroyson/17-spring-test2-rroyson.git
+cd 17-spring-test2-cullen-webster
+npm install
+```
+
 
 ## 1.js
-reverse the order of the myArr
 
+To reverse the order of an array.  Run the following command in the terminal:
+
+```
+node 1.js
+```
 
 
 ## 2.js
-capitalize the first letter of each array item
 
+To capitalize the first letter of each array item. Run the following command in the terminal:
 
+```
+node 2.js
+```
 
 ##3.js
+
 codepen project
 page URL:
 
