@@ -1,4 +1,4 @@
-//const {slice, charAt, toUpper, join, map,range} = require('ramda')
+
 
 var myArray = ["black","green","blue","navy","orange","gold","purple"]
 
